@@ -2,8 +2,8 @@
   "name": "citezilla",
   "title": "citezilla",
   "id": "jid1-3kBgKQSOVfGjXA",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Exports journal citations to the Scholarly database",
+  "author": "Austin Macdonald",
   "license": "MPL 2.0",
   "version": "0.1"
 }
